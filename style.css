@@ -1,0 +1,114 @@
+.logo {
+  height: 150px;
+  align-items: center;
+  padding-left: 98px;
+}
+.home {
+  text-align: center;
+  background-color: lightblue;
+  padding: 15px;
+  color: white;
+  border-radius: 100px;
+  font-family: Courier New;
+  font-size: 20px;
+  text-decoration: none;
+  
+}
+.book {
+  text-align: center;
+  background-color: lightblue;
+  padding: 15px;
+  color: white;
+  border-radius: 100px;
+  font-family: Courier New;
+  font-size: 20px;
+  text-decoration: none;
+}
+.contract {
+  text-align: center;
+  background-color: lightblue;
+  padding: 15px;
+  color: white;
+  border-radius: 100px;
+  font-family: Courier New;
+  font-size: 20px;
+  text-decoration: none;
+}
+.what {
+  text-align: center;
+  padding-top: 100px;
+  font-family: Monospace;
+  color: skyblue;
+}
+.what-ex {
+  text-align: center;
+  font-size: 20px;
+  color: gray;
+}
+.benefit {
+  text-align: center;
+  padding-top: 50px;
+  font-size: 25px;
+  font-family: Monospace;
+  color: palevioletred;
+}
+.order {
+  height: 500px;
+  margin-left: 45px;
+}
+.app {
+  text-align: center;
+  font-size: 25px;
+  color: lightpink;
+  font-family: Georgia;
+}
+.choose {
+  text-align: center;
+  font-size: 25px;
+  padding-top: 50px;
+  color: darkgreen;
+  font-weight: bold;
+  font-family: Times New Roman;
+}
+.lowest-price {
+  padding-left: 60px;
+}
+.para-low-price {
+  text-align: center;
+  font-size: 20px;
+  color: darkorange;
+  font-family: Courier New;
+}
+.packages {
+  text-align: center;
+  font-size: 25px;
+  padding-top: 50px;
+  font-family: Papyrus;
+  font-weight: bold;
+}
+.basic {
+  padding-top: 30px;
+  text-align: center;
+  font-size: 30px;
+  font-weight: bold;
+}
+.btn-1 {
+  background-color: blue;
+  padding: 20px;
+  border-radius: 20px;
+  border: solid 1px blue;
+  color: white;
+  font-weight: bold;
+  font-family: Monospace;
+}
+.bh {
+  text-align: center;
+  background-color: lightblue;
+  padding: 15px;
+  color: white;
+  border-radius: 100px;
+  font-family: Courier New;
+  font-size: 20px;
+  text-decoration: none;
+  border: solid 2px lightblue;
+}
